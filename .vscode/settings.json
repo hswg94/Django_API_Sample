@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.minimumContrastRatio": 7,
+    "editor.guides.indentation": true,
+    "workbench.tree.indent": 20,
+    "workbench.tree.renderIndentGuides": "always",
+    "html.format.wrapAttributesIndentSize": 4,
+    "luahelper.format.continuation_indent_width": 4,
+    "luahelper.format.indent_width": 4,
+    "powershell.codeFormatting.pipelineIndentationStyle": "NoIndentation"
+}
